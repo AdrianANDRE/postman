@@ -38,7 +38,7 @@
 				},
 				"method": "GET",
 				"header": [],
-				"url": "http://squash:8080/squash/api/rest/latest/test-cases/{{testcase_id}}"
+				"url": "http://localhost:8080/squash/api/rest/latest/test-cases/{{testcase_id}}"
 			},
 			"response": []
 		}
