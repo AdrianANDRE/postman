@@ -1,3 +1,5 @@
 [
-  { "username": "admin", "password": "admin", "http_code": "200", "testcase_id": "1", "testcase_name": "faileddata"}
+  { "username": "admin", "password": "admin", "http_code": "200", "testcase_id": "1", "testcase_name": "faileddata"},
+  { "username": "admin", "password": "admin", "http_code": "200", "testcase_id": "1", "testcase_name": "ite2"},
+  { "username": "admin", "password": "admin", "http_code": "200", "testcase_id": "1", "testcase_name": "ite3"}
 ]
